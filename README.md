@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-🎓 Final-year Computer Science student  
+🎓 Undergraduate Computer Science student  
 🛡️ Built a Machine Learning model to detect SQL Injection attacks  
 📊 Passionate about AI, backend systems, and security  
 💪 Consistently training discipline — in code and in life  
